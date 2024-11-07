@@ -3,7 +3,7 @@ Hi! I'm Liam H, a student at the Colorado School of Mines studying Electrical En
 
 # Theseus
   Two prototypes that lead to a product, the Theseus Escape Room Controller. 
-  I started designing escape room controllers in 2022 for the Mines Themepark Engineering and Design Group (TPED). I needed a way to control multiple electronic puzzles at a central point, without daisy chaining of off-the-shelf controllers. (Non-technical [feature article](https://www.themedattraction.com/marvins-gold-rush-escape-colorado-school-of-mines-tped/) of the entire room).
+  I started designing escape room controllers in 2022 for the Mines Themepark Engineering and Design Group (TPED). I needed a way to control multiple electronic puzzles at a central point, without daisy-chaining off-the-shelf controllers. (Non-technical [feature article](https://www.themedattraction.com/marvins-gold-rush-escape-colorado-school-of-mines-tped/) of the entire escape room).
   These Thesus prototypes use a Raspberry Pi running a modified version of Raspbian with node-red to allow graphic programming of the "puzzle flow" in an escape room/themed experience.
   A special version of Theseus is the 0.2 prototype. For this version, I designed it around a Raspberry Pi compute module instead of a regular Raspberry Pi. This board includes controlled impedance HMDI, USB, and Ethernet routing.
 ## Features of the Theseus0.5 Include:
