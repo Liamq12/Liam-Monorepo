@@ -22,3 +22,5 @@ Hi! I'm Liam H, a student at the Colorado School of Mines studying Electrical En
   I also added a script I wrote to validate our BSPD vs IC.4.8. 
 # Power Supply
   This is an adjustable power supply with 8 indicator lights designed for my electric devices class. It features an Analog Devices LDO and is capable of outputting 0-1A at up to 0-12V.
+# Cornerstone Design
+  This was my freshman-year design challenge project. Our team developed an avalanche airbag that inflates with oxygen, allowing the avalanche victim to breathe under the snow while awaiting rescue.
