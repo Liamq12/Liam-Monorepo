@@ -16,7 +16,7 @@ A selection of my PCB projects and other related work.
 ## Additional features of the Theseus0.3 Include:
     -Motor Driver
     -5V LED Output
-## Test and Measurement
+# Test and Measurement
   While I can't share details about specific projects at TI, I am familiar with the Pyvisa library and NI's instrument drivers. In addition, I have written SCPI code for Keysight and Tektronix equipment including sampling/real-time oscilloscopes, BERTs, VNAs, Thermal forcing units, DMMs, PSUs, etc used to validate pre-release silicon. I wrote an example script for measuring the temperature of cells over different C rates and included it in this folder.
 # Power Supply
   This is an adjustable power supply with 8 indicator lights designed for my electric devices class. It features an Analog Devices LDO and is capable of outputting 0-1A at up to 0-12V.
