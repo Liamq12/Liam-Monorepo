@@ -1,5 +1,6 @@
 # Portfolio
-Hi! I'm Liam H, a student at the Colorado School of Mines. 
+Hi! I'm Liam H, a student at the Colorado School of Mines studying Electrical Engineering. At Mines, I am the lead electrical engineer for the Mines Formula SAE Team. Outside FSAE, I am involved with the Mines Theme Park Engineering and Design Group (TPED), Tau Beta Pi, and IEEE. I am passionate about electrical engineering, teaching, and space exploration. Feel free to connect with me on Linkedin. [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/liam-homburger/)
+
 # Theseus
   Two prototypes that lead to a product, The Theseus Escape Room Controller. 
   I started designing escape room controllers in 2022 for the Mines Themepark Engineering and Design Group (TPED). I needed a way to control multiple electronic puzzles at a central point, without a daisy chain of off-the-shelf controllers. (Non-technical [feature article](https://www.themedattraction.com/marvins-gold-rush-escape-colorado-school-of-mines-tped/) of the entire room).
