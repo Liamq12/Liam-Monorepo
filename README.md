@@ -1,5 +1,7 @@
 # Liam's Monorepo
-Hi! I'm Liam H, a student at the Colorado School of Mines studying Electrical Engineering. At Mines, I am the lead electrical engineer for the Mines Formula SAE Team. Outside FSAE, I am involved with the Mines Theme Park Engineering and Design Group (TPED), Tau Beta Pi, and IEEE. I am passionate about electrical engineering, teaching, and space exploration. Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/liam-homburger/).
+Hi! I'm Liam Homburger, a student at the Colorado School of Mines studying Electrical Engineering. At Mines, I am the lead electrical engineer for the Mines Formula SAE Team. Outside FSAE, I am involved with the Mines Theme Park Engineering and Design Group (TPED), Tau Beta Pi, and IEEE. I am passionate about electrical engineering, teaching, and space exploration. Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/liam-homburger/).
+
+This monorepo holds things/projects I have worked on that I think are interesting but not worth their own repo. Feel free to reach out to me if you have any questions!
 
 # Theseus
   Two prototypes that lead to a product, the Theseus Escape Room Controller. 
