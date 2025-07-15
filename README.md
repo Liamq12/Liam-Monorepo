@@ -20,8 +20,7 @@ This monorepo holds things/projects I have worked on that I think are interestin
     -Motor Driver
     -5V LED Output
 # BSPD 2
-This is an brake system plausibility device used by Mines Formula. You may be wondering what happened to BSPD 1? BSPD 1 which I designed years ago was (literally) hanging on by a trace at competition this year. In addition, it uses an RC timer, which does not work well with multiple implausible states, followed by a correction. Because of this, I redesigned it to work with an binary ripple adder which is more precise, and instantly resets. 
-This is an brake system plausibility device used by Mines Formula. You may be wondering what happened to BSPD 1? BSPD 1 which I designed years ago was (literally) hanging on by a trace at competition this year. In addition, it uses an RC timer, which does not work well with multiple implausible states, followed by a correction. Because of this, I redesigned it to work with a binary ripple adder, which is more precise, and instantly resets. 
+This is an brake system plausibility device used by Mines Formula. BSPD 1 was (literally) hanging on by a trace at competition this year. In addition, it uses an RC timer, which does not work well with multiple implausible states, followed by a correction. Because of this, I redesigned it to work with an binary ripple adder which is more precise, and instantly resets. 
 The latching requirement is satisfied by a comparator with positive feedback/extreme hysteresis, and overall, the size of the BSPD 2 is about 20% smaller than BSPD 1.
 # Wavy FSTM32
 (Formula STM32 Devboard) This is my attempt to settle on of the most heated debates in electrical engineering. Can curved PCB traces look decent? Unlike the tabs vs spaces argument, I don’t think there is a clear winner, but I wanted to design a board with curved traces. This also doubles up as Mines Formula's IsoSPI devboard, used to talk with our BMS modules during development. 
